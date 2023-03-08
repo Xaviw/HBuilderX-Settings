@@ -1,0 +1,20 @@
+{
+  "cSpell.ignoreWords": "",
+  "dir.exclude": ".git,.cvs,.svn,node_modules,unpackage,uni_modules,lib",
+  "editor.codeassist.px2rem.enabel": false,
+  "editor.codeassistKeyTab": true,
+  "editor.colorScheme": "Atom One Dark",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontFmyCHS": "仿宋",
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.longLineIndicator": true,
+  "editor.longLineIndicatorColumn": 120,
+  "editor.multiCursorModifier": "Ctrl",
+  "editor.showLastLineWhenFolded": true,
+  "editor.tabSize": 2,
+  "files.associations.contextmenu": true,
+  "files.exclude": "",
+  "javascript.validate.enable": true,
+  "typescript.validate.enable": false
+}

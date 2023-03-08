@@ -1,0 +1,27 @@
+module.exports = {
+  printWidth: 120,
+  tabWidth: 2,
+  useTabs: false,
+  semi: false,
+  singleQuote: true,
+  quoteProps: 'as-needed',
+  jsxSingleQuote: false,
+  trailingComma: "es5",
+  bracketSpacing: true,
+  arrowParens: 'avoid',
+  vueIndentScriptAndStyle: false,
+  endOfLine: 'crlf',
+  embeddedLanguageFormatting: 'off',
+  htmlWhitespaceSensitivity: "css",
+  parsers: {
+    ".jsx": "flow",
+    ".scss": "scss",
+    ".ts": "typescript",
+    ".less": "css",
+    ".vue": "vue",
+    ".nvue": "vue",
+    ".ux": "vue",
+    ".yml": "yaml",
+  },
+}
+
