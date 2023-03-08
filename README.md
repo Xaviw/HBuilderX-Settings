@@ -4,7 +4,7 @@
 
 放置在 **`用户目录\AppData\Roaming\HBuilder X\extensions`** 
 
-## keybindings.json、settings.json
+## user
 
 放置在 **`用户目录\AppData\Roaming\HBuilder X\user`**
 
