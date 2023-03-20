@@ -1,7 +1,5 @@
 # 自用HBuilderX设置
 
-`HBuilderX`在代码格式化方面与`VSCode`相差甚远，但没办法还得继续用。所以配置了一套自用基本顺手的配置，保存在仓库[HBuilderX-Settings](https://github.com/Xaviw/HBuilderX-Settings)中
-
 ## 所需插件
 
 - [eslint-js](https://ext.dcloud.net.cn/plugin?id=2037)
