@@ -1,8 +1,11 @@
 [
-  //全部保存
   {
     "key": "ctrl+shift+s",
     "command": "workbench.action.files.saveAll",
     "override": true
+  },
+  {
+    "key": "ctrl+k",
+    "command": "editor.action.deleteLines"
   }
 ]
