@@ -17,7 +17,7 @@
 
 ## 快捷键
 
-快捷键采用`VSCode`风格，修改了保存全部`ctrl+shift+s`与快捷块级注释`ctrl+shift+/`
+快捷键采用`VSCode`风格，修改了保存全部`ctrl+shift+s`、快捷块级注释`ctrl+shift+/`和触发建议`shift+space`
 
 ## extensions
 

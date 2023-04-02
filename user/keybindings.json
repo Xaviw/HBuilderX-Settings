@@ -7,5 +7,9 @@
   {
     "key": "ctrl+k",
     "command": "editor.action.deleteLines"
+  },
+  {
+    "key": "shift+space",
+    "command": "editor.action.triggerSuggest"
   }
 ]
