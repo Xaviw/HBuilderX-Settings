@@ -29,5 +29,9 @@
 
 放置在 **`用户目录\AppData\Roaming\HBuilder X\user`**
 
+`settings.json`中不包括运行配置，可以将文件中的属性添加到尾部后再删除重复属性
+
+`Fira Code`字体下载地址：https://github.com/tonsky/FiraCode
+
 对应快捷键设置与应用设置
 
